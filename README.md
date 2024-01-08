@@ -24,7 +24,7 @@ This project focuses on improving product retrieval on e-commerce platforms by e
 - [Hugging Face Transformers](https://huggingface.co/transformers/)
 
 ### Installing
-Clone the repository: `git clone https://github.com/viet-data/web_mining_e_commerce.git``
+Clone the repository: ``git clone https://github.com/viet-data/web_mining_e_commerce.git``
 
 ## Authors
 - Dao Trong Viet
